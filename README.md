@@ -1,2 +1,1 @@
-# starter
-Created with CodeSandbox
+# Starter
